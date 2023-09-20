@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Simple Web Page</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to the CSS file -->
+</head>
+<body>
+    <header>
+        <h1>Hi Welcome to Coding Hub</h1>
+    </header>
+    <section>
+        <h2>welcome to programming world</h2>
+        <p>HTML and CSS basic project.</p>
+    </section>
+    <footer>
+        <p>&copy; 2023 My Simple creative webpage Web Page</p>
+    </footer>
+</body>
+</html>
